@@ -15,9 +15,6 @@ A **College Canteen Management System** is used as a practical context throughou
 5. Requirement Traceability Matrix (RTM)
 6. Tools for Requirement Management
 
-## Complete Activity
-
-[View the Complete Self-Learning Activity](SEA-self-learning.md)
 
 ## References
 
