@@ -1,12 +1,7 @@
 # Self-Learning Activity: Agile, DevOps & Requirement Engineering
 
-## A Case Study Based on a College Canteen Management System
 
-**Subject:** Software Engineering / Software Project Management
 
-**Self-Learning Topic:** Agile, DevOps, JIRA and Requirement Engineering
-
----
 
 ## Introduction
 
